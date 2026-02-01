@@ -1,5 +1,5 @@
 
-![Affan's Github Stats](https://github-readme-stats-six-gilt-21.vercel.app/api?username=affanndm&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&theme=midnight-purple)<br>
+![Affan's Github Stats](https://github-readme-stats-six-gilt-21.vercel.app/api?username=affanndm&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&theme=radical)<br>
 # 💫 About Me:
 High School student passionate about Python, computational biology, and building simulations.<br>Currently working on gene network models, algorithms, and science fair research.<br>Interested in AI, data science, and biotech entrepreneurship.
 
